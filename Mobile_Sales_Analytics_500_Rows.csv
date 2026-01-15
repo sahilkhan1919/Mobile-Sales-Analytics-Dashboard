@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Brand,Mobile_Model,City,Quantity,Total_Sales,Payment_Method,Customer_Rating
+1,2024-12-11,Samsung,S21,Kolkata,3,61929,UPI,4
+2,2024-09-15,Vivo,X90,Hyderabad,1,28028,Credit Card,5
+3,2024-11-09,Xiaomi,Note 11,Pune,3,55626,Cash,3
+4,2024-02-12,Vivo,Y20,Bangalore,1,45952,Credit Card,2
+5,2024-03-09,Xiaomi,Note 12,Ahmedabad,1,18523,UPI,5
+6,2024-07-30,Apple,iPhone 13,Chennai,2,85085,Credit Card,2
+7,2024-02-03,Samsung,A14,Delhi,2,27756,Credit Card,3
+8,2024-02-05,OnePlus,Nord,Bangalore,1,32564,UPI,4
+9,2024-01-18,Samsung,S23,Kolkata,1,73038,Cash,2
+10,2024-12-04,Xiaomi,Note 12,Hyderabad,1,77581,Credit Card,5
+11,2024-11-01,Samsung,S23,Mumbai,2,59051,Credit Card,1
+12,2024-10-19,Apple,iPhone 15,Chennai,3,59883,Credit Card,2
+13,2024-05-21,Samsung,A14,Hyderabad,2,78179,Credit Card,3
+14,2024-07-08,OnePlus,9R,Bangalore,3,86154,UPI,5
+15,2024-08-02,Apple,iPhone 15,Chennai,3,55230,Debit Card,4
+16,2024-08-20,Samsung,A14,Bangalore,1,47890,Debit Card,4
+17,2024-09-20,Samsung,S21,Kolkata,1,86717,Cash,2
+18,2024-01-30,Samsung,A14,Bangalore,3,44598,UPI,4
+19,2024-08-07,OnePlus,11,Mumbai,1,72568,Credit Card,1
+20,2024-09-28,OnePlus,11,Hyderabad,2,67353,Cash,1
+21,2024-09-09,Xiaomi,Note 12,Ahmedabad,3,57903,Cash,2
+22,2024-10-01,Xiaomi,Note 12,Delhi,2,26021,Debit Card,1
+23,2024-08-24,Xiaomi,Redmi 12,Hyderabad,2,87858,Debit Card,1
+24,2024-09-23,OnePlus,11,Chennai,1,79043,Cash,5
+25,2024-10-17,Vivo,V25,Delhi,1,48946,Credit Card,2
+26,2024-07-03,Xiaomi,Note 11,Ahmedabad,2,32034,Credit Card,4
+27,2024-03-28,OnePlus,9R,Pune,1,60679,Credit Card,4
+28,2024-11-24,Apple,iPhone 13,Ahmedabad,1,49064,Debit Card,3
+29,2024-08-11,OnePlus,Nord,Ahmedabad,2,82777,Credit Card,4
+30,2024-04-11,Xiaomi,Redmi 12,Kolkata,3,44028,UPI,2
+31,2024-02-01,OnePlus,11,Mumbai,1,35136,Debit Card,5
+32,2024-10-05,Vivo,Y20,Delhi,3,64541,UPI,3
+33,2024-01-04,Apple,iPhone 14,Mumbai,1,23314,Debit Card,3
+34,2024-04-26,Xiaomi,Note 11,Pune,2,79747,Debit Card,5
+35,2024-03-25,Samsung,S21,Mumbai,3,50953,Debit Card,1
+36,2024-08-09,Samsung,S21,Mumbai,2,23363,Debit Card,2
+37,2024-01-12,Samsung,A14,Kolkata,2,83809,Cash,2
+38,2024-06-26,Xiaomi,Note 11,Bangalore,3,39395,Cash,4
+39,2024-10-22,Vivo,V25,Kolkata,1,15322,Cash,1
+40,2024-10-02,OnePlus,9R,Hyderabad,1,47505,Credit Card,5
+41,2024-12-14,Vivo,V25,Ahmedabad,2,51534,Debit Card,1
+42,2024-11-02,Vivo,Y20,Kolkata,1,75670,Credit Card,4
+43,2024-04-09,Xiaomi,Note 11,Ahmedabad,3,30318,Credit Card,5
+44,2024-05-22,Samsung,S21,Kolkata,1,61754,UPI,3
+45,2024-11-29,Xiaomi,Redmi 12,Chennai,3,56089,Debit Card,3
+46,2024-09-27,Xiaomi,Note 12,Pune,3,45281,Debit Card,5
+47,2024-09-07,Samsung,A14,Chennai,2,42170,Cash,2
+48,2024-12-14,Xiaomi,Note 12,Bangalore,2,74722,UPI,4
+49,2024-01-19,Vivo,Y20,Pune,1,45003,Cash,3
+50,2024-10-05,Vivo,X90,Kolkata,1,86775,UPI,3
+51,2024-06-11,OnePlus,Nord,Delhi,1,51356,Debit Card,3
+52,2024-08-27,Xiaomi,Note 12,Hyderabad,3,68443,Debit Card,1
+53,2024-02-01,Vivo,V25,Delhi,1,90993,UPI,1
+54,2024-04-10,Xiaomi,Note 12,Ahmedabad,1,48086,Cash,1
+55,2024-08-17,OnePlus,11,Pune,3,86007,Cash,2
+56,2024-04-18,Apple,iPhone 14,Mumbai,3,76030,Credit Card,2
+57,2024-12-04,Vivo,V25,Chennai,2,55559,Debit Card,5
+58,2024-07-21,Samsung,S21,Hyderabad,1,88863,Cash,4
+59,2024-11-14,Xiaomi,Note 12,Kolkata,1,51744,Cash,3
+60,2024-09-21,Apple,iPhone 15,Pune,2,17486,Cash,1
+61,2024-11-07,Vivo,Y20,Mumbai,2,38396,Cash,2
+62,2024-04-03,Vivo,Y20,Pune,1,29860,Credit Card,5
+63,2024-08-07,Xiaomi,Redmi 12,Kolkata,3,81130,Credit Card,4
+64,2024-01-18,Xiaomi,Note 12,Hyderabad,1,85532,Cash,2
+65,2024-04-30,OnePlus,11,Chennai,2,49822,UPI,4
+66,2024-11-08,Vivo,X90,Ahmedabad,2,86650,Debit Card,4
+67,2024-04-25,OnePlus,9R,Pune,3,79455,Credit Card,3
+68,2024-11-03,Vivo,X90,Kolkata,3,31550,Credit Card,2
+69,2024-01-24,OnePlus,Nord,Bangalore,2,58746,UPI,3
+70,2024-03-16,Apple,iPhone 15,Ahmedabad,1,78305,Cash,3
+71,2024-08-18,Xiaomi,Note 12,Bangalore,2,32985,UPI,4
+72,2024-09-22,Samsung,S23,Bangalore,2,78650,Credit Card,1
+73,2024-04-29,OnePlus,11,Hyderabad,1,86768,Credit Card,1
+74,2024-04-09,Apple,iPhone 15,Bangalore,3,32962,Cash,5
+75,2024-09-25,Xiaomi,Note 12,Delhi,1,91658,Credit Card,2
+76,2024-01-25,OnePlus,11,Delhi,2,59518,Debit Card,2
+77,2024-08-13,OnePlus,Nord,Ahmedabad,3,29063,Debit Card,1
+78,2024-02-09,Xiaomi,Redmi 12,Kolkata,1,77011,Cash,1
+79,2024-04-28,Vivo,X90,Delhi,3,48890,Debit Card,1
+80,2024-03-12,Xiaomi,Note 11,Ahmedabad,3,94134,Credit Card,1
+81,2024-07-20,Apple,iPhone 13,Hyderabad,2,70861,Debit Card,2
+82,2024-03-13,Xiaomi,Note 12,Mumbai,3,23331,Cash,4
+83,2024-11-27,Xiaomi,Note 11,Ahmedabad,3,29300,Cash,2
+84,2024-12-09,Apple,iPhone 14,Bangalore,3,28744,Debit Card,2
+85,2024-08-07,Xiaomi,Redmi 12,Chennai,1,71971,Credit Card,1
+86,2024-10-20,Xiaomi,Redmi 12,Kolkata,1,61690,Debit Card,5
+87,2024-03-31,OnePlus,11,Kolkata,3,27492,UPI,3
+88,2024-09-25,OnePlus,9R,Kolkata,2,48945,Cash,3
+89,2024-07-31,Vivo,Y20,Ahmedabad,3,24471,Cash,5
+90,2024-10-19,Samsung,S21,Kolkata,1,45604,UPI,2
+91,2024-01-29,Xiaomi,Redmi 12,Delhi,2,31665,Debit Card,2
+92,2024-10-09,OnePlus,Nord,Hyderabad,2,47702,UPI,4
+93,2024-08-14,OnePlus,11,Delhi,2,40874,Cash,3
+94,2024-01-28,Samsung,S23,Hyderabad,3,59739,Cash,3
+95,2024-10-30,Samsung,S23,Chennai,3,20316,Cash,1
+96,2024-12-29,Vivo,V25,Hyderabad,3,26498,Debit Card,2
+97,2024-08-09,Apple,iPhone 14,Chennai,1,31923,Debit Card,2
+98,2024-11-28,Samsung,S21,Hyderabad,3,85190,Credit Card,3
+99,2024-12-01,Vivo,X90,Mumbai,1,68910,Debit Card,2
+100,2024-02-06,Vivo,V25,Hyderabad,1,66057,UPI,5
+101,2024-01-13,Apple,iPhone 14,Ahmedabad,2,90350,Credit Card,1
+102,2024-10-01,Samsung,S21,Mumbai,2,89797,Debit Card,2
+103,2024-06-12,Xiaomi,Note 11,Mumbai,3,53395,Credit Card,2
+104,2024-06-16,Vivo,X90,Chennai,1,82335,Cash,1
+105,2024-10-13,Apple,iPhone 15,Ahmedabad,2,46169,UPI,1
+106,2024-07-21,Xiaomi,Redmi 12,Ahmedabad,1,59275,Credit Card,3
+107,2024-11-23,Apple,iPhone 14,Chennai,3,30855,Credit Card,4
+108,2024-05-24,Apple,iPhone 14,Pune,2,30185,Credit Card,5
+109,2024-07-27,Apple,iPhone 13,Pune,3,64360,UPI,5
+110,2024-03-29,Apple,iPhone 15,Delhi,3,74862,Credit Card,4
+111,2024-07-25,Apple,iPhone 15,Hyderabad,1,82766,Credit Card,4
+112,2024-02-20,OnePlus,11,Chennai,2,44026,Credit Card,2
+113,2024-02-23,Vivo,V25,Chennai,3,57251,UPI,5
+114,2024-06-09,Vivo,V25,Delhi,1,66321,Debit Card,1
+115,2024-07-28,Vivo,X90,Kolkata,3,47380,Credit Card,5
+116,2024-02-14,Vivo,V25,Bangalore,2,44711,UPI,1
+117,2024-07-20,Xiaomi,Note 12,Hyderabad,1,18333,Debit Card,4
+118,2024-08-26,Apple,iPhone 14,Pune,3,59610,Cash,2
+119,2024-04-01,Xiaomi,Note 11,Mumbai,1,78349,UPI,4
+120,2024-11-29,Apple,iPhone 13,Mumbai,3,39949,UPI,1
+121,2024-01-25,OnePlus,Nord,Hyderabad,3,75541,Credit Card,2
+122,2024-02-28,Xiaomi,Redmi 12,Chennai,1,38022,Cash,4
+123,2024-04-06,OnePlus,9R,Pune,3,32451,Cash,3
+124,2024-03-06,Xiaomi,Redmi 12,Chennai,1,84271,UPI,3
+125,2024-12-01,Vivo,Y20,Chennai,2,24468,UPI,1
+126,2024-12-15,Apple,iPhone 14,Kolkata,3,80666,Cash,4
+127,2024-05-26,OnePlus,9R,Ahmedabad,3,84622,UPI,2
+128,2024-08-01,Xiaomi,Note 12,Delhi,3,15506,Debit Card,4
+129,2024-07-25,Samsung,S23,Bangalore,1,52173,UPI,5
+130,2024-12-29,Samsung,A14,Kolkata,2,40443,Debit Card,1
+131,2024-11-02,Xiaomi,Note 11,Ahmedabad,2,43074,Cash,3
+132,2024-02-23,Samsung,S21,Delhi,3,82607,Cash,4
+133,2024-11-30,Samsung,S21,Bangalore,2,42633,Debit Card,5
+134,2024-12-25,Samsung,S23,Kolkata,3,52333,Cash,3
+135,2024-04-14,Samsung,A14,Pune,1,49633,Cash,1
+136,2024-10-31,Xiaomi,Note 12,Kolkata,1,77666,Debit Card,3
+137,2024-07-25,Apple,iPhone 13,Hyderabad,1,36432,Cash,1
+138,2024-01-23,Vivo,V25,Hyderabad,1,91003,Credit Card,2
+139,2024-04-12,Samsung,S23,Chennai,3,56297,Cash,3
+140,2024-06-10,Xiaomi,Note 11,Mumbai,1,77234,UPI,3
+141,2024-05-28,Xiaomi,Redmi 12,Chennai,2,48370,Cash,2
+142,2024-09-04,Xiaomi,Note 11,Chennai,3,72389,Credit Card,1
+143,2024-10-11,Apple,iPhone 13,Kolkata,3,89217,Credit Card,2
+144,2024-02-26,Vivo,V25,Chennai,1,21099,Debit Card,5
+145,2024-11-28,Apple,iPhone 14,Hyderabad,3,22190,UPI,4
+146,2024-12-07,OnePlus,11,Mumbai,1,36021,UPI,5
+147,2024-11-22,Xiaomi,Note 12,Ahmedabad,1,42657,Credit Card,4
+148,2024-05-06,Samsung,S21,Ahmedabad,3,41672,Credit Card,5
+149,2024-11-13,Samsung,S23,Chennai,3,31888,UPI,1
+150,2024-09-23,OnePlus,11,Bangalore,3,57594,Credit Card,5
+151,2024-05-31,Samsung,S21,Ahmedabad,2,68057,Credit Card,2
+152,2024-09-18,OnePlus,9R,Ahmedabad,1,74192,UPI,1
+153,2024-09-03,Vivo,V25,Mumbai,3,46841,Debit Card,3
+154,2024-09-02,Xiaomi,Note 11,Kolkata,3,39935,Debit Card,4
+155,2024-02-24,Apple,iPhone 15,Pune,2,76820,Cash,5
+156,2024-12-11,Samsung,S21,Mumbai,1,79728,UPI,5
+157,2024-03-09,Vivo,Y20,Delhi,1,27861,UPI,3
+158,2024-04-15,Samsung,S23,Mumbai,2,36034,Debit Card,5
+159,2024-09-06,Apple,iPhone 13,Delhi,1,59728,Cash,3
+160,2024-01-23,Samsung,S21,Bangalore,2,48762,Credit Card,4
+161,2024-11-16,Vivo,X90,Mumbai,2,23744,Credit Card,2
+162,2024-07-26,OnePlus,Nord,Hyderabad,2,69460,Cash,1
+163,2024-05-08,Xiaomi,Note 11,Kolkata,2,46933,Credit Card,2
+164,2024-04-22,OnePlus,Nord,Mumbai,1,77414,UPI,1
+165,2024-11-25,Samsung,S23,Bangalore,2,39000,Cash,4
+166,2024-01-10,Vivo,Y20,Chennai,3,47196,Debit Card,2
+167,2024-02-01,Apple,iPhone 13,Kolkata,3,27447,Debit Card,4
+168,2024-11-20,OnePlus,Nord,Kolkata,3,30142,Credit Card,1
+169,2024-02-27,Apple,iPhone 14,Ahmedabad,1,74812,UPI,3
+170,2024-06-02,Samsung,A14,Mumbai,1,45785,Cash,4
+171,2024-04-02,Samsung,S21,Bangalore,2,33314,Credit Card,1
+172,2024-08-13,Vivo,Y20,Delhi,1,44419,Credit Card,1
+173,2024-05-31,Samsung,A14,Pune,2,19065,Cash,2
+174,2024-03-01,OnePlus,11,Ahmedabad,3,75068,Debit Card,3
+175,2024-02-04,Samsung,S21,Kolkata,1,85824,Debit Card,4
+176,2024-06-11,Xiaomi,Note 11,Ahmedabad,2,38685,Credit Card,3
+177,2024-07-03,Xiaomi,Redmi 12,Mumbai,3,34700,Credit Card,4
+178,2024-03-23,Vivo,X90,Mumbai,1,84967,Cash,3
+179,2024-09-11,Xiaomi,Note 12,Mumbai,1,50392,Debit Card,2
+180,2024-08-31,Samsung,A14,Delhi,1,34309,Credit Card,5
+181,2024-01-27,Xiaomi,Redmi 12,Delhi,2,51512,Credit Card,2
+182,2024-10-06,Samsung,S23,Kolkata,1,57503,Credit Card,3
+183,2024-08-14,OnePlus,11,Chennai,1,35011,UPI,2
+184,2024-08-21,Xiaomi,Note 11,Chennai,1,82513,Debit Card,1
+185,2024-04-28,OnePlus,11,Kolkata,1,79196,Debit Card,5
+186,2024-09-11,Samsung,S23,Delhi,1,18675,Credit Card,3
+187,2024-03-18,Samsung,S21,Delhi,3,38221,Credit Card,5
+188,2024-07-28,Vivo,V25,Chennai,1,31792,UPI,2
+189,2024-04-12,Samsung,A14,Chennai,1,50813,Debit Card,3
+190,2024-03-29,Xiaomi,Redmi 12,Chennai,2,24587,Debit Card,5
+191,2024-10-11,Xiaomi,Note 12,Ahmedabad,1,47618,Credit Card,5
+192,2024-11-10,OnePlus,9R,Hyderabad,2,26729,Credit Card,2
+193,2024-09-05,Samsung,A14,Chennai,1,84946,Debit Card,4
+194,2024-11-29,OnePlus,Nord,Chennai,1,23185,UPI,2
+195,2024-09-11,Samsung,S23,Chennai,3,94470,Credit Card,1
+196,2024-10-11,Vivo,V25,Delhi,2,29119,Credit Card,2
+197,2024-12-18,Xiaomi,Note 12,Kolkata,2,89652,Debit Card,2
+198,2024-10-01,Xiaomi,Note 12,Chennai,2,40535,Debit Card,4
+199,2024-01-09,Xiaomi,Redmi 12,Ahmedabad,3,38097,Credit Card,4
+200,2024-05-02,OnePlus,9R,Kolkata,3,34237,Cash,2
+201,2024-08-26,Xiaomi,Note 11,Pune,1,53022,Credit Card,4
+202,2024-06-27,OnePlus,11,Hyderabad,2,40936,UPI,4
+203,2024-06-22,Vivo,Y20,Hyderabad,3,68924,Credit Card,3
+204,2024-10-23,Apple,iPhone 14,Chennai,1,15304,UPI,5
+205,2024-05-05,Samsung,S23,Bangalore,2,88999,Credit Card,5
+206,2024-10-21,Apple,iPhone 13,Delhi,3,34462,Credit Card,1
+207,2024-05-15,Vivo,Y20,Delhi,2,30109,Debit Card,1
+208,2024-08-26,OnePlus,Nord,Ahmedabad,1,16883,Cash,3
+209,2024-07-30,OnePlus,Nord,Chennai,2,89581,Debit Card,1
+210,2024-09-14,Apple,iPhone 14,Hyderabad,1,78361,Debit Card,1
+211,2024-04-04,Apple,iPhone 13,Hyderabad,3,81433,Cash,1
+212,2024-11-25,Vivo,V25,Hyderabad,3,57855,Debit Card,1
+213,2024-06-26,Apple,iPhone 15,Kolkata,2,71327,UPI,3
+214,2024-02-22,OnePlus,9R,Kolkata,3,36558,UPI,1
+215,2024-08-22,Samsung,S23,Pune,3,20624,Cash,3
+216,2024-03-02,Vivo,X90,Pune,3,35935,UPI,3
+217,2024-03-18,Vivo,Y20,Hyderabad,1,57922,Debit Card,1
+218,2024-12-12,Xiaomi,Note 12,Pune,2,51661,Debit Card,2
+219,2024-04-27,Vivo,X90,Hyderabad,1,89192,Credit Card,3
+220,2024-05-15,Xiaomi,Note 12,Bangalore,3,79935,Credit Card,4
+221,2024-12-27,Samsung,A14,Kolkata,3,16466,UPI,1
+222,2024-07-20,Xiaomi,Note 12,Chennai,1,62302,Credit Card,1
+223,2024-04-27,Xiaomi,Redmi 12,Pune,3,73757,Cash,4
+224,2024-09-22,Vivo,X90,Hyderabad,3,23494,Debit Card,1
+225,2024-07-16,Apple,iPhone 13,Delhi,3,70237,Debit Card,3
+226,2024-07-23,OnePlus,11,Pune,2,88628,Credit Card,1
+227,2024-07-29,OnePlus,Nord,Delhi,1,51536,UPI,5
+228,2024-09-23,Vivo,V25,Kolkata,1,61117,UPI,2
+229,2024-02-21,OnePlus,9R,Mumbai,3,62282,Debit Card,2
+230,2024-12-30,Apple,iPhone 14,Chennai,2,20150,UPI,2
+231,2024-03-25,Apple,iPhone 15,Chennai,2,21989,Credit Card,3
+232,2024-10-31,OnePlus,9R,Ahmedabad,1,37549,Debit Card,4
+233,2024-06-14,OnePlus,11,Ahmedabad,2,39109,Credit Card,4
+234,2024-10-17,Vivo,X90,Hyderabad,2,39814,UPI,1
+235,2024-03-13,OnePlus,9R,Bangalore,3,87291,Cash,4
+236,2024-12-22,Vivo,V25,Mumbai,1,73782,Debit Card,3
+237,2024-10-09,Apple,iPhone 13,Chennai,3,87270,UPI,3
+238,2024-11-18,Vivo,V25,Delhi,3,45384,Credit Card,3
+239,2024-12-06,Samsung,A14,Chennai,3,17378,UPI,4
+240,2024-08-21,Xiaomi,Note 12,Pune,3,28950,Credit Card,4
+241,2024-10-24,OnePlus,Nord,Ahmedabad,2,42548,Credit Card,3
+242,2024-07-13,Vivo,V25,Delhi,1,35659,Credit Card,3
+243,2024-08-13,Apple,iPhone 14,Kolkata,1,27990,Credit Card,3
+244,2024-02-09,Apple,iPhone 13,Kolkata,1,53164,UPI,1
+245,2024-12-01,Apple,iPhone 15,Hyderabad,1,83579,Cash,1
+246,2024-06-18,Samsung,S23,Kolkata,3,90011,Debit Card,1
+247,2024-01-07,Xiaomi,Redmi 12,Hyderabad,3,75306,Debit Card,1
+248,2024-09-02,OnePlus,Nord,Hyderabad,3,87889,Credit Card,4
+249,2024-03-28,Apple,iPhone 14,Chennai,3,87291,UPI,3
+250,2024-03-22,OnePlus,Nord,Chennai,1,58266,UPI,5
+251,2024-06-24,Vivo,Y20,Kolkata,2,61976,Cash,5
+252,2024-11-24,Apple,iPhone 14,Ahmedabad,3,64423,Credit Card,3
+253,2024-11-09,Xiaomi,Note 12,Hyderabad,3,21988,Debit Card,2
+254,2024-04-28,Xiaomi,Note 12,Ahmedabad,2,77874,UPI,3
+255,2024-06-23,Xiaomi,Redmi 12,Hyderabad,3,42521,UPI,4
+256,2024-06-04,Apple,iPhone 14,Bangalore,2,55459,Cash,1
+257,2024-09-24,Apple,iPhone 14,Kolkata,3,29417,Debit Card,3
+258,2024-02-12,Samsung,S23,Hyderabad,3,73973,UPI,3
+259,2024-04-26,Samsung,S21,Chennai,2,44905,Credit Card,4
+260,2024-03-19,Samsung,S21,Pune,1,81611,UPI,5
+261,2024-04-30,OnePlus,Nord,Ahmedabad,2,44560,Debit Card,3
+262,2024-12-30,OnePlus,11,Hyderabad,1,68818,UPI,5
+263,2024-01-14,OnePlus,11,Mumbai,3,76694,Debit Card,2
+264,2024-07-08,Apple,iPhone 14,Bangalore,3,59792,Debit Card,4
+265,2024-11-22,Apple,iPhone 15,Delhi,2,21370,Debit Card,2
+266,2024-02-09,Vivo,Y20,Delhi,2,44451,UPI,2
+267,2024-10-26,Xiaomi,Redmi 12,Ahmedabad,3,19260,UPI,1
+268,2024-05-07,Vivo,Y20,Hyderabad,3,57577,Credit Card,4
+269,2024-12-05,Samsung,A14,Pune,3,66720,Credit Card,3
+270,2024-08-31,Xiaomi,Note 11,Mumbai,1,56851,Debit Card,5
+271,2024-06-15,Samsung,S21,Chennai,1,20213,Cash,3
+272,2024-12-26,Xiaomi,Note 12,Kolkata,3,84169,Cash,1
+273,2024-05-13,Apple,iPhone 13,Delhi,3,68926,Credit Card,5
+274,2024-12-28,Samsung,S21,Ahmedabad,3,54582,Debit Card,2
+275,2024-06-01,Apple,iPhone 14,Chennai,2,47960,Cash,3
+276,2024-05-04,Apple,iPhone 13,Kolkata,2,16608,Credit Card,2
+277,2024-01-12,Samsung,A14,Hyderabad,3,26837,Debit Card,2
+278,2024-12-27,Apple,iPhone 13,Pune,3,54615,Debit Card,2
+279,2024-11-13,Apple,iPhone 14,Bangalore,3,86926,Debit Card,1
+280,2024-03-30,Samsung,A14,Chennai,1,84612,Debit Card,4
+281,2024-01-29,Apple,iPhone 15,Chennai,3,20853,Cash,3
+282,2024-01-24,Xiaomi,Note 11,Kolkata,2,74615,UPI,5
+283,2024-05-22,Xiaomi,Note 11,Bangalore,3,49289,UPI,2
+284,2024-04-05,Apple,iPhone 14,Delhi,3,91629,Credit Card,5
+285,2024-08-02,OnePlus,9R,Kolkata,2,93658,Cash,5
+286,2024-04-22,Apple,iPhone 13,Kolkata,2,45688,Debit Card,1
+287,2024-04-24,Samsung,S23,Ahmedabad,1,76564,Cash,5
+288,2024-05-23,Apple,iPhone 15,Pune,1,47896,Credit Card,5
+289,2024-04-22,OnePlus,Nord,Pune,3,32259,UPI,5
+290,2024-12-03,Xiaomi,Note 12,Pune,1,46971,UPI,1
+291,2024-05-02,OnePlus,Nord,Ahmedabad,2,69597,Cash,4
+292,2024-05-12,Samsung,S21,Mumbai,1,68395,Debit Card,2
+293,2024-12-10,Samsung,S21,Ahmedabad,3,94867,UPI,2
+294,2024-09-28,OnePlus,11,Hyderabad,1,35973,Debit Card,1
+295,2024-04-09,Apple,iPhone 13,Mumbai,3,92413,Cash,1
+296,2024-08-22,Xiaomi,Note 11,Mumbai,3,67339,Debit Card,5
+297,2024-12-29,Vivo,V25,Mumbai,2,83582,Credit Card,1
+298,2024-01-31,Vivo,X90,Ahmedabad,1,26961,Debit Card,1
+299,2024-01-01,Vivo,Y20,Ahmedabad,3,58957,Cash,3
+300,2024-05-04,Vivo,V25,Delhi,1,90811,Cash,1
+301,2024-05-13,Xiaomi,Note 12,Hyderabad,2,73555,Cash,1
+302,2024-09-24,Samsung,S23,Delhi,2,69136,Debit Card,5
+303,2024-10-17,Apple,iPhone 14,Mumbai,3,82431,Cash,5
+304,2024-05-04,Vivo,X90,Mumbai,3,62938,Debit Card,2
+305,2024-04-17,OnePlus,11,Ahmedabad,1,85746,Credit Card,2
+306,2024-11-28,Samsung,A14,Ahmedabad,3,64754,UPI,4
+307,2024-06-27,OnePlus,Nord,Kolkata,3,75016,Cash,1
+308,2024-08-03,Xiaomi,Redmi 12,Ahmedabad,2,83584,Debit Card,4
+309,2024-07-04,Samsung,A14,Mumbai,3,64347,UPI,5
+310,2024-07-21,Xiaomi,Note 12,Chennai,2,17418,UPI,2
+311,2024-12-17,Xiaomi,Redmi 12,Delhi,3,27796,Cash,2
+312,2024-06-05,Xiaomi,Note 12,Ahmedabad,2,54486,UPI,3
+313,2024-09-15,Samsung,S23,Hyderabad,3,59177,UPI,4
+314,2024-09-05,Xiaomi,Redmi 12,Pune,1,25088,UPI,3
+315,2024-03-23,Apple,iPhone 15,Chennai,3,31698,UPI,3
+316,2024-06-03,Vivo,V25,Kolkata,1,57592,Credit Card,2
+317,2024-08-02,Xiaomi,Note 11,Ahmedabad,2,94796,Credit Card,4
+318,2024-08-08,Vivo,X90,Pune,2,27106,UPI,5
+319,2024-07-11,Apple,iPhone 15,Kolkata,1,75753,Cash,2
+320,2024-05-06,Samsung,A14,Hyderabad,2,50553,Credit Card,2
+321,2024-04-03,Apple,iPhone 15,Bangalore,3,94886,Cash,3
+322,2024-01-27,Apple,iPhone 14,Delhi,1,45943,Cash,1
+323,2024-01-08,Xiaomi,Note 12,Bangalore,2,55980,UPI,4
+324,2024-03-30,Xiaomi,Redmi 12,Delhi,3,67495,Debit Card,4
+325,2024-07-29,Vivo,X90,Ahmedabad,3,69664,Cash,2
+326,2024-09-22,Xiaomi,Redmi 12,Delhi,3,17018,Debit Card,1
+327,2024-08-10,Vivo,X90,Mumbai,3,71767,Debit Card,3
+328,2024-07-01,Samsung,S21,Chennai,2,28199,Credit Card,5
+329,2024-01-01,Samsung,A14,Bangalore,3,55631,Cash,3
+330,2024-08-16,Samsung,A14,Chennai,3,56866,Debit Card,3
+331,2024-12-06,Xiaomi,Note 12,Pune,3,34017,Debit Card,1
+332,2024-05-20,Samsung,S21,Hyderabad,1,84910,Credit Card,4
+333,2024-06-23,Samsung,S23,Mumbai,1,39623,Debit Card,2
+334,2024-08-08,Vivo,X90,Mumbai,1,90464,UPI,2
+335,2024-10-03,Vivo,Y20,Pune,3,69215,Credit Card,2
+336,2024-07-21,OnePlus,Nord,Bangalore,3,78243,UPI,2
+337,2024-10-09,Samsung,S23,Ahmedabad,2,27214,Debit Card,3
+338,2024-12-12,OnePlus,9R,Kolkata,3,73569,Credit Card,3
+339,2024-10-28,Samsung,A14,Delhi,2,26412,Credit Card,3
+340,2024-06-13,Xiaomi,Note 11,Chennai,2,66811,Debit Card,4
+341,2024-01-23,Xiaomi,Note 12,Pune,1,71863,UPI,1
+342,2024-02-14,Samsung,A14,Ahmedabad,2,92865,Debit Card,2
+343,2024-06-07,Samsung,S21,Mumbai,2,64691,UPI,1
+344,2024-02-28,Samsung,A14,Kolkata,3,41868,Debit Card,3
+345,2024-06-05,Xiaomi,Redmi 12,Delhi,2,15769,Credit Card,1
+346,2024-08-29,Apple,iPhone 13,Ahmedabad,2,66143,Cash,2
+347,2024-03-03,OnePlus,Nord,Hyderabad,1,19516,Debit Card,2
+348,2024-09-10,Vivo,Y20,Bangalore,1,48086,UPI,5
+349,2024-09-08,Vivo,V25,Chennai,3,64688,Credit Card,3
+350,2024-07-16,Apple,iPhone 14,Delhi,1,43982,Credit Card,5
+351,2024-01-27,Vivo,X90,Chennai,1,35168,Credit Card,5
+352,2024-04-01,Vivo,Y20,Mumbai,3,34063,Credit Card,5
+353,2024-04-22,Apple,iPhone 13,Hyderabad,1,22873,UPI,3
+354,2024-04-17,Vivo,V25,Kolkata,1,88425,Cash,2
+355,2024-12-17,Apple,iPhone 15,Kolkata,3,60060,UPI,2
+356,2024-07-28,Vivo,Y20,Delhi,2,22824,Credit Card,4
+357,2024-09-02,OnePlus,11,Ahmedabad,1,80349,Cash,5
+358,2024-03-18,OnePlus,9R,Chennai,2,26956,Cash,2
+359,2024-07-21,Xiaomi,Note 12,Delhi,2,36115,Cash,5
+360,2024-04-24,Samsung,S23,Ahmedabad,2,84218,Credit Card,5
+361,2024-10-02,Vivo,V25,Pune,1,33133,Cash,4
+362,2024-03-01,Xiaomi,Redmi 12,Bangalore,2,33959,Debit Card,2
+363,2024-04-13,Xiaomi,Note 11,Chennai,2,39126,Cash,3
+364,2024-11-29,Vivo,X90,Chennai,1,45089,Cash,4
+365,2024-01-12,Apple,iPhone 13,Delhi,2,90787,Debit Card,4
+366,2024-06-18,Apple,iPhone 15,Chennai,1,28966,Debit Card,2
+367,2024-02-21,Samsung,S23,Pune,1,86694,Cash,5
+368,2024-01-07,Apple,iPhone 13,Bangalore,3,86665,UPI,3
+369,2024-05-19,Xiaomi,Note 12,Bangalore,2,57654,Cash,1
+370,2024-01-18,Samsung,S23,Bangalore,2,25664,Credit Card,3
+371,2024-07-20,Xiaomi,Redmi 12,Ahmedabad,2,92749,UPI,1
+372,2024-12-07,Vivo,V25,Chennai,1,75036,Cash,3
+373,2024-04-02,Vivo,Y20,Pune,2,60127,Credit Card,2
+374,2024-12-09,Apple,iPhone 13,Ahmedabad,1,33522,Debit Card,3
+375,2024-02-28,Xiaomi,Redmi 12,Chennai,2,51432,Cash,1
+376,2024-06-28,Apple,iPhone 15,Hyderabad,2,27905,Cash,3
+377,2024-08-23,Xiaomi,Note 12,Pune,3,92909,Credit Card,1
+378,2024-12-17,Samsung,S21,Chennai,3,38027,Credit Card,1
+379,2024-01-10,Xiaomi,Note 11,Ahmedabad,3,21945,UPI,4
+380,2024-10-13,Xiaomi,Note 12,Hyderabad,1,48840,Debit Card,5
+381,2024-09-20,Xiaomi,Note 11,Ahmedabad,2,16481,Debit Card,2
+382,2024-03-05,Apple,iPhone 13,Hyderabad,3,63519,Debit Card,2
+383,2024-05-15,OnePlus,9R,Pune,1,53638,Debit Card,3
+384,2024-01-02,Samsung,A14,Ahmedabad,2,79117,Debit Card,1
+385,2024-08-22,OnePlus,9R,Mumbai,1,77997,Cash,1
+386,2024-06-17,Vivo,X90,Chennai,1,45129,Credit Card,4
+387,2024-02-13,OnePlus,Nord,Delhi,3,90914,Credit Card,1
+388,2024-01-30,Samsung,S21,Chennai,2,68550,Debit Card,4
+389,2024-12-02,Samsung,A14,Ahmedabad,1,30139,Debit Card,4
+390,2024-06-16,Xiaomi,Note 11,Kolkata,3,85223,Credit Card,1
+391,2024-12-03,Xiaomi,Note 12,Mumbai,2,61348,Credit Card,4
+392,2024-12-02,OnePlus,Nord,Mumbai,3,91473,UPI,4
+393,2024-04-11,Xiaomi,Note 11,Bangalore,1,17975,Cash,5
+394,2024-06-02,Samsung,S23,Kolkata,3,62721,UPI,1
+395,2024-02-20,Xiaomi,Redmi 12,Ahmedabad,1,80315,Credit Card,2
+396,2024-04-06,Vivo,Y20,Chennai,2,27412,UPI,5
+397,2024-05-08,Xiaomi,Note 11,Pune,1,44018,Cash,4
+398,2024-01-10,Xiaomi,Note 12,Kolkata,1,76449,Credit Card,3
+399,2024-06-05,OnePlus,9R,Delhi,3,44644,Credit Card,1
+400,2024-04-03,Xiaomi,Note 11,Chennai,3,62854,Debit Card,4
+401,2024-04-19,OnePlus,9R,Bangalore,1,22181,Credit Card,5
+402,2024-06-26,Xiaomi,Note 12,Pune,1,30543,Credit Card,3
+403,2024-02-25,OnePlus,11,Delhi,3,82580,Debit Card,5
+404,2024-01-02,Samsung,S23,Hyderabad,2,39335,Credit Card,3
+405,2024-01-01,OnePlus,11,Kolkata,1,35177,Debit Card,1
+406,2024-08-08,Vivo,Y20,Hyderabad,1,50113,Credit Card,3
+407,2024-03-02,Xiaomi,Redmi 12,Bangalore,1,67747,Cash,2
+408,2024-12-02,OnePlus,9R,Chennai,2,37328,Debit Card,4
+409,2024-12-04,Xiaomi,Note 11,Chennai,3,40130,Credit Card,5
+410,2024-06-07,Xiaomi,Redmi 12,Delhi,2,32517,Credit Card,3
+411,2024-11-21,Samsung,A14,Mumbai,3,55641,Credit Card,2
+412,2024-02-11,OnePlus,9R,Hyderabad,3,40472,Credit Card,5
+413,2024-09-19,OnePlus,Nord,Kolkata,1,55447,UPI,3
+414,2024-10-20,Vivo,V25,Mumbai,2,88387,UPI,5
+415,2024-02-25,OnePlus,9R,Kolkata,3,73410,Credit Card,5
+416,2024-01-14,Samsung,S21,Hyderabad,1,23502,Credit Card,1
+417,2024-03-12,Apple,iPhone 13,Chennai,1,80925,UPI,3
+418,2024-09-18,Apple,iPhone 13,Mumbai,1,67038,UPI,2
+419,2024-07-31,Apple,iPhone 15,Mumbai,1,23727,Cash,3
+420,2024-08-27,Samsung,S23,Hyderabad,2,48406,UPI,2
+421,2024-01-10,OnePlus,11,Delhi,3,71663,Debit Card,4
+422,2024-03-07,Vivo,V25,Kolkata,1,63167,Credit Card,3
+423,2024-11-29,Samsung,A14,Delhi,2,60074,Cash,4
+424,2024-01-19,Vivo,V25,Hyderabad,1,70185,UPI,1
+425,2024-03-14,Vivo,Y20,Hyderabad,2,21901,Debit Card,5
+426,2024-10-28,Apple,iPhone 13,Bangalore,3,80377,Cash,4
+427,2024-11-20,Vivo,X90,Bangalore,3,84324,Debit Card,3
+428,2024-09-10,OnePlus,9R,Mumbai,2,20596,Credit Card,5
+429,2024-02-05,Vivo,X90,Chennai,2,28761,Debit Card,2
+430,2024-02-08,Vivo,Y20,Bangalore,1,72585,UPI,3
+431,2024-09-08,Apple,iPhone 14,Mumbai,2,47661,Credit Card,2
+432,2024-05-22,Samsung,A14,Pune,3,84016,Credit Card,5
+433,2024-10-03,Samsung,A14,Bangalore,2,27064,UPI,1
+434,2024-11-05,Apple,iPhone 13,Bangalore,3,78718,Cash,2
+435,2024-11-14,Vivo,V25,Kolkata,1,33670,UPI,4
+436,2024-12-21,OnePlus,9R,Kolkata,3,33351,Credit Card,1
+437,2024-12-27,Vivo,V25,Mumbai,2,63483,Credit Card,5
+438,2024-04-27,Samsung,A14,Ahmedabad,2,56831,Cash,4
+439,2024-06-05,Vivo,V25,Ahmedabad,1,68903,UPI,5
+440,2024-10-07,Xiaomi,Redmi 12,Kolkata,3,59204,Debit Card,2
+441,2024-09-06,OnePlus,Nord,Mumbai,3,79330,UPI,1
+442,2024-09-15,Vivo,Y20,Mumbai,3,15838,Cash,5
+443,2024-09-05,Vivo,Y20,Delhi,1,35598,Credit Card,5
+444,2024-09-02,OnePlus,9R,Mumbai,2,17525,Debit Card,5
+445,2024-06-19,Apple,iPhone 13,Bangalore,1,28298,UPI,2
+446,2024-02-29,Vivo,Y20,Hyderabad,2,51773,Cash,3
+447,2024-01-02,Vivo,Y20,Ahmedabad,1,76896,Cash,1
+448,2024-05-07,OnePlus,11,Kolkata,2,75671,UPI,2
+449,2024-07-04,Samsung,S21,Mumbai,2,28558,Credit Card,4
+450,2024-10-26,Vivo,V25,Ahmedabad,3,93378,Debit Card,3
+451,2024-06-05,Apple,iPhone 15,Ahmedabad,2,34142,Cash,4
+452,2024-01-15,OnePlus,Nord,Chennai,2,70740,Debit Card,3
+453,2024-01-14,OnePlus,9R,Kolkata,3,51135,Credit Card,1
+454,2024-07-17,Vivo,X90,Bangalore,2,75865,UPI,1
+455,2024-10-28,Apple,iPhone 15,Mumbai,2,49424,UPI,4
+456,2024-01-17,Samsung,A14,Bangalore,2,49367,Credit Card,4
+457,2024-09-01,OnePlus,Nord,Bangalore,2,80642,Credit Card,3
+458,2024-12-02,OnePlus,9R,Hyderabad,3,88611,UPI,1
+459,2024-07-10,Vivo,X90,Hyderabad,2,73659,Cash,2
+460,2024-03-06,Apple,iPhone 15,Chennai,3,85680,Cash,3
+461,2024-05-26,Xiaomi,Note 11,Chennai,1,24190,Credit Card,3
+462,2024-08-29,Xiaomi,Redmi 12,Hyderabad,3,29612,Credit Card,2
+463,2024-06-24,Samsung,A14,Kolkata,3,51242,UPI,3
+464,2024-11-28,Samsung,S23,Pune,3,53937,Cash,1
+465,2024-07-09,Xiaomi,Redmi 12,Bangalore,3,52310,Credit Card,2
+466,2024-08-10,Vivo,V25,Chennai,2,89531,UPI,3
+467,2024-03-08,Xiaomi,Note 12,Ahmedabad,2,56998,UPI,1
+468,2024-01-17,Apple,iPhone 15,Kolkata,3,81321,Cash,5
+469,2024-07-03,Vivo,Y20,Chennai,3,32469,Credit Card,4
+470,2024-02-24,Vivo,Y20,Pune,2,88044,Cash,3
+471,2024-03-09,Apple,iPhone 15,Hyderabad,3,89273,Credit Card,4
+472,2024-12-04,Xiaomi,Redmi 12,Delhi,1,49130,Cash,3
+473,2024-12-30,OnePlus,9R,Hyderabad,3,38241,Debit Card,3
+474,2024-12-19,Apple,iPhone 13,Ahmedabad,2,85009,Debit Card,2
+475,2024-02-13,Samsung,S23,Bangalore,3,71744,Cash,3
+476,2024-11-12,Apple,iPhone 15,Kolkata,1,87758,UPI,5
+477,2024-11-13,Samsung,A14,Delhi,2,49247,UPI,5
+478,2024-09-14,Apple,iPhone 15,Pune,3,92138,Credit Card,2
+479,2024-12-01,Samsung,A14,Bangalore,1,77498,Cash,5
+480,2024-09-02,Samsung,S23,Chennai,1,73202,Cash,1
+481,2024-09-18,Vivo,V25,Kolkata,2,26625,Credit Card,4
+482,2024-06-05,Xiaomi,Note 11,Ahmedabad,2,66765,UPI,1
+483,2024-04-15,Vivo,V25,Hyderabad,3,85123,UPI,2
+484,2024-08-19,Samsung,A14,Chennai,2,79558,UPI,2
+485,2024-05-09,Apple,iPhone 14,Kolkata,2,39253,Credit Card,2
+486,2024-06-28,Xiaomi,Note 11,Kolkata,2,26215,Debit Card,5
+487,2024-12-30,OnePlus,11,Delhi,1,18720,Debit Card,1
+488,2024-12-16,Xiaomi,Note 11,Bangalore,3,71709,UPI,3
+489,2024-10-11,Vivo,V25,Mumbai,2,22362,Cash,5
+490,2024-06-01,Xiaomi,Redmi 12,Ahmedabad,3,85396,Cash,4
+491,2024-10-19,Samsung,A14,Kolkata,3,30728,Debit Card,4
+492,2024-07-27,Samsung,S23,Pune,1,93453,UPI,3
+493,2024-08-21,Vivo,Y20,Kolkata,1,49052,UPI,2
+494,2024-06-19,OnePlus,11,Chennai,2,50485,Cash,5
+495,2024-07-02,OnePlus,9R,Bangalore,3,32079,Debit Card,3
+496,2024-03-23,Apple,iPhone 15,Delhi,1,30082,Cash,2
+497,2024-09-04,OnePlus,9R,Mumbai,3,59026,UPI,2
+498,2024-01-27,OnePlus,11,Chennai,1,39317,UPI,5
+499,2024-08-25,Samsung,S21,Delhi,2,18050,UPI,4
+500,2024-07-09,OnePlus,9R,Pune,3,62498,Debit Card,1
